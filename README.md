@@ -90,7 +90,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student with a 
 
 - 🌍 Portfolio: [Coming Soon]
 - 📧 Email: nisargsolanki56@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nisargsolanki](www.linkedin.com/in/nisarg-solanki-0970aa290)
+- 💼 LinkedIn: [linkedin.com/in/nisargsolanki](https://www.linkedin.com/in/nisarg-solanki-0970aa290/)
 - 🐦 Twitter(X): [@nisarg_s_](https://x.com/NisargS28_)
 
 ---
