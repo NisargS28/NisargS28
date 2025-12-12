@@ -31,7 +31,7 @@ Frontend & Backend Web Development | Database Design | Machine Learning Basics |
 
 - 🔭 I’m currently working on: **AI/ML Internship Projects** & an **NGO Website**  
 - 🌱 Learning: **React.js**, **Machine Learning**, **Supabase**  
-- 📫 How to reach me: [nisargsolanki56@gmail.com](mailto:nisargsolanki56@gmail.com)  
+- 📫 How to reach me: [nisargscodes28@gmail.com](mailto:nisargscodes28@gmail.com)  
 - ⚡ Fun fact: I love combining tech and social good. Whether it's building apps or mentoring juniors, I believe in growing together. 🌱  
 
 ---
